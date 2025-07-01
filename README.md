@@ -1,4 +1,4 @@
-Hii 👋 I'm Krishna Sahu<br><hr>
+<h1>Hii 👋 I'm Krishna Sahu</h1><br><hr>
 #💫About me :
 🔭 I’m currently working on improving my Java skills and building full-stack web projects using the MERN stack.<br><br>🤝 I’m looking to collaborate on Java-based DSA problems, beginner-friendly open-source projects, and full stack applications.<br><br>🧠 I’m looking for help with advanced DSA patterns in Java and UI/UX best practices.<br><br>🌱 I’m currently learning Java OOPs, DSA, and exploring the fundamentals of Machine Learning.<br><br>💬 Ask me about web development, MERN stack, Java basics, and how to get started with coding as a beginner.<br><br>⚡ Fun fact: I plan my day around small goals and reward myself with music and reels once I complete them. Coding is not just my career path—it's my passion!<br>
 
